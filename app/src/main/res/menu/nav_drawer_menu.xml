@@ -6,34 +6,34 @@
             android:id="@+id/nav_item_carros_todos"
             android:checked="true"
             android:icon="@drawable/ic_drawer_carro"
-            android:title="@string/carros" />
+            android:title="Carros" />
         <!-- Lista com os carros clássicos -->
         <item
             android:id="@+id/nav_item_carros_classicos"
             android:checked="true"
             android:icon="@drawable/ic_drawer_carro"
-            android:title="@string/classicos" />
+            android:title="Classicos" />
         <!-- Lista com os carros esportivos -->
         <item
             android:id="@+id/nav_item_carros_esportivos"
             android:checked="true"
             android:icon="@drawable/ic_drawer_carro"
-            android:title="@string/esportivos" />
+            android:title="Esportivos" />
         <!-- Lista com os carros de luxo -->
         <item
             android:id="@+id/nav_item_carros_luxo"
             android:checked="true"
             android:icon="@drawable/ic_drawer_carro"
-            android:title="@string/luxo" />
+            android:title="Luxo" />
         <!-- WebView com informações sobre o livro -->
         <item
             android:id="@+id/nav_item_site_livro"
             android:icon="@drawable/ic_drawer_site_livro"
-            android:title="@string/site_do_livro" />
+            android:title="Site_do_livro" />
         <!-- Tela de configurações -->
         <item
             android:id="@+id/nav_item_settings"
             android:icon="@drawable/ic_drawer_settings"
-            android:title="@string/configuracoes" />
+            android:title="Configuracoes" />
     </group>
 </menu>
